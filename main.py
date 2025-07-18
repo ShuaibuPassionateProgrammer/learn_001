@@ -1,2 +1,3 @@
 class HelloWorld:
-    pass
+    def print_hello_world(self):
+        pass
