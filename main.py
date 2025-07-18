@@ -1,4 +1,4 @@
 class HelloWorld:
     def print_hello_world(self):
-        print("Hello World");
+        print("Hello World")
 hello_world = HelloWorld()
