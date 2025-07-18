@@ -1,1 +1,2 @@
-https://github.com/ShuaibuPassionateProgrammer/learn_001.git
+def printHelloWorld():
+    print("Hello World")
