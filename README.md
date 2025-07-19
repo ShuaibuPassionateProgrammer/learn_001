@@ -19,3 +19,7 @@ A minimal, beginner-friendly Python project that prints "Hello World" to the con
    git clone <repository-url>
    cd learn_001
    ```
+2. **Run the application:**
+   ```bash
+   python main.py
+   ```
