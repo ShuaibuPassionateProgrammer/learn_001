@@ -11,3 +11,11 @@ A minimal, beginner-friendly Python project that prints "Hello World" to the con
 ## Requirements
 
 - Python 3.6 or higher
+
+## Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+   cd learn_001
+   ```
