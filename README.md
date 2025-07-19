@@ -38,3 +38,8 @@ learn_001/
 ## Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests to add features, improve documentation, or fix bugs.
+
+
+## License
+
+This project is released under the MIT License.
