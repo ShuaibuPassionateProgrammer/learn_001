@@ -28,3 +28,10 @@ A minimal, beginner-friendly Python project that prints "Hello World" to the con
 ```
 Hello World
 ```
+## Project Structure
+
+```
+learn_001/
+├── main.py      # Contains the HelloWorld class and entry point
+└── README.md    # Project documentation
+```
