@@ -23,3 +23,8 @@ A minimal, beginner-friendly Python project that prints "Hello World" to the con
    ```bash
    python main.py
    ```
+## Example Output
+
+```
+Hello World
+```
