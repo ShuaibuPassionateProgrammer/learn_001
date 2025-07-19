@@ -43,3 +43,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 ## License
 
 This project is released under the MIT License.
+
+---
+
+Feel free to use this as a starting point for your own Python console applications!
