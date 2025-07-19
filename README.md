@@ -1,26 +1,52 @@
 # learn_001
 
-A minimal Python project that prints "Hello World" to the console using a simple class structure. This serves as a basic template for learning or starting new Python console-based projects.
+A minimal, beginner-friendly Python project that prints "Hello World" to the console using a simple class-based structure. This repository serves as a basic template for learning Python or kickstarting new console-based projects.
+
+## Features
+
+- Clean, easy-to-understand code
+- Simple class structure for demonstration and extension
+- Ready-to-run with minimal setup
 
 ## Requirements
+
 - Python 3.6 or higher
 
-## Usage
-1. Clone or download this repository.
-2. Run the following command in your terminal:
+## Getting Started
 
-```bash
-python main.py
-```
+1. **Clone the repository:**
+   ```bash
+   git clone <repository-url>
+   cd learn_001
+   ```
+
+2. **Run the application:**
+   ```bash
+   python main.py
+   ```
 
 ## Example Output
+
 ```
 Hello World
 ```
 
 ## Project Structure
-- `main.py`: Contains the HelloWorld class and entry point.
-- `README.md`: Project documentation.
+
+```
+learn_001/
+├── main.py      # Contains the HelloWorld class and entry point
+└── README.md    # Project documentation
+```
+
+## Contributing
+
+Contributions are welcome! Feel free to fork this repository and submit pull requests to add features, improve documentation, or fix bugs.
+
+## License
+
+This project is released under the MIT License.
 
 ---
-Feel free to use this as a starting point for your own projects!
+
+Feel free to use this as a starting point for your own Python console applications!
