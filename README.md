@@ -35,3 +35,6 @@ learn_001/
 ├── main.py      # Contains the HelloWorld class and entry point
 └── README.md    # Project documentation
 ```
+## Contributing
+
+Contributions are welcome! Feel free to fork this repository and submit pull requests to add features, improve documentation, or fix bugs.
