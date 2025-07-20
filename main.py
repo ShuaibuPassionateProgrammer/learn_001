@@ -10,3 +10,4 @@ class HelloWorld:
 def main():
     """Main function to demonstrate HelloWorld usage."""
     hello_world = HelloWorld()
+    hello_world.print_hello_world()
