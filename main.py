@@ -9,3 +9,4 @@ class HelloWorld:
 
 def main():
     """Main function to demonstrate HelloWorld usage."""
+    hello_world = HelloWorld()
