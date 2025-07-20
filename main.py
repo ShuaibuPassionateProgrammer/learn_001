@@ -7,4 +7,5 @@ class HelloWorld:
         """Prints 'Hello World' to the console."""
         print("Hello World")
 
-"""Main function to demonstrate HelloWorld usage."""
+def main():
+    """Main function to demonstrate HelloWorld usage."""
