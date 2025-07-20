@@ -6,3 +6,5 @@ class HelloWorld:
     def print_hello_world(self):
         """Prints 'Hello World' to the console."""
         print("Hello World")
+
+"""Main function to demonstrate HelloWorld usage."""
