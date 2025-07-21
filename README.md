@@ -1,11 +1,12 @@
 # learn_001
 
-A minimal, beginner-friendly Python project that prints "Hello World" to the console using a simple class-based structure. This repository serves as a basic template for learning Python or kickstarting new console-based projects.
+A minimal, beginner-friendly Python project that prints a message to the console. By default, it prints "Hello World", but you can customize the message via command-line arguments or user input. This repository serves as a basic template for learning Python or kickstarting new console-based projects.
 
 ## Features
 
 - Clean, easy-to-understand code
-- Simple class structure for demonstration and extension
+- Accepts custom messages via command-line or user input
+- Robust error handling
 - Ready-to-run with minimal setup
 
 ## Requirements
@@ -23,22 +24,38 @@ A minimal, beginner-friendly Python project that prints "Hello World" to the con
    ```bash
    python main.py
    ```
+   You will be prompted to enter a message, or just press Enter to print the default "Hello World".
+
+3. **Run with a custom message (command-line argument):**
+   ```bash
+   python main.py "Custom message here!"
+   ```
+
 ## Example Output
 
 ```
+Enter a message to print (or press Enter for default):
 Hello World
 ```
+
+Or using a command-line argument:
+
+```
+$ python main.py "Welcome to learn_001!"
+Welcome to learn_001!
+```
+
 ## Project Structure
 
 ```
 learn_001/
-├── main.py      # Contains the HelloWorld class and entry point
+├── main.py      # Contains the main application logic
 └── README.md    # Project documentation
 ```
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests to add features, improve documentation, or fix bugs.
-
 
 ## License
 
