@@ -33,5 +33,3 @@ def main() -> None:
             message = "Hello World"
     print_message(message)
 
-if __name__ == "__main__":
-    main()
