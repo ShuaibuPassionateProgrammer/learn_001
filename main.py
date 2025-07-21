@@ -9,7 +9,6 @@ def is_prime(num):
             return False
     return True
     
-
 def main():
     try:
         number = int(input("Enter an integer: "))
